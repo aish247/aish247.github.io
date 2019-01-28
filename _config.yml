@@ -18,6 +18,9 @@ plugins:
   - jekyll-archives
     
 # Archives
+category_archive:
+  type: liquid
+  path: /category/
 jekyll-archives:
   enabled:
     - categories
