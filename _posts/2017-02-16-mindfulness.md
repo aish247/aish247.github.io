@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MINDFULNESS"
-categories: [ mindmatters ]
+categories: [ wonderworks ]
 image: assets/images/mindfulness.jpg
 featured: false
 hidden: false

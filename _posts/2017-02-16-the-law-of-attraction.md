@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Law of Attraction"
-categories: [ mindmatters ]
+categories: [ wonderworks ]
 image: assets/images/lawofattraction.jpg
 featured: false
 hidden: false
