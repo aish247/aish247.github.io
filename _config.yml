@@ -20,7 +20,11 @@ plugins:
 # Archives
 category_archive:
   type: liquid
+<<<<<<< HEAD
   path: /_site/category/
+=======
+  path: /category/
+>>>>>>> 68b76c9c3692ff6ad144d7222e9a4ac94de08f52
 jekyll-archives:
   enabled:
     - categories
