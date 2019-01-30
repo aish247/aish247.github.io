@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Being Pregnant - What I Know Now!"
-categories: [ womanhood ]
+categories: [ wonderwoman ]
 image: assets/images/beingpregnant.jpg
 featured: false
 hidden: false
