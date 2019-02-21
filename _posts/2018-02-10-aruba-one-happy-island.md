@@ -3,8 +3,6 @@ layout: post
 title:  "ARUBA: One Happy Island"
 categories: [ wanderland ]
 image: assets/images/aruba2.jpg
-featured: true
-hidden: true
 ---
 
 It is going to be two years since we made our trip to Aruba but memories of its turquoise-colored beaches, white sand and clear blue skies are still so vivid, that I am compelled to pen them down, finally. Aruba will always be close to our hearts, being the first vacation my husband and I took as a couple. Guess that makes it our honeymoon? Except, unlike most other people, we had no idea this would be our location until after the wedding! We were so overwhelmed by not only the wedding planning but a few other stresses at the time, that planning a honeymoon was the last thing on our minds. Instead, we decided to wait until the dust settled..the best decision we ever made! We were able to plan our honeymoon with a lot more excitement and patience than we would have, otherwise!

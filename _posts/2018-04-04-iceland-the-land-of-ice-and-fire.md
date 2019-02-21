@@ -3,8 +3,6 @@ layout: post
 title:  "Iceland: The Land of Fire & Ice"
 categories: [ wanderland ]
 image: assets/images/iceland0.jpg
-featured: true
-hidden: true
 ---
 
 A fog followed our 4×4 as we drove south of Route 1, mystifying the snow-covered Tundra plains. The sky should have been pitch black at this time of the hour, but we notice hints of twilight wrapping, what seemed like a million stars, thanks to the reflection of the snow. As we began playing soundtracks of Game of Thrones, we were almost convinced that a group of white walkers were lurking behind the mist. This is what the Icelandic panorama does to you– as you try to make sense of what you are seeing, you will begin to believe what the Icelandic folklore and sagas have reiterated for centuries- there is some magic here.
@@ -29,7 +27,4 @@ If you stop resisting nature’s madness, and savor every moment come rain or sh
 
 Most tourists probably prefer Iceland in its warmer months, and we can’t wait to go back there for a summer trip ourselves (you really can’t get enough of Iceland!) But with this trip, we wanted to step out of our comfort zone and challenge the conventional definition of a vacation. Because life in Iceland is so unpredictable, our trip probably ended up being slightly different than what we originally imagined, yet, it was the smoothest, most perfect trip we have ever taken. We explored everything we had planned to explore, yet there was an inexplicable novelty to it . The so-called challenges made this trip all the more adventurous and spontaneous. And most of all, it succeeded in expanding our boundaries of a vacation. You know what they say, “Out of your comfort zone is where the magic happens”. Well, this couldn’t be truer for Iceland.
 
- 
-
-*Coming Soon: 10 Things You Should Know Before Visiting Iceland*
 

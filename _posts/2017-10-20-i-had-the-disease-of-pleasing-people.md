@@ -3,7 +3,7 @@ layout: post
 title:  "'I Had The Disease of Pleasing People'- Oprah Winfrey"
 categories: [ wonderworks ]
 image: assets/images/pleasingpeople1.jpg
-featured: false
+featured: true
 hidden: false
 ---
 
