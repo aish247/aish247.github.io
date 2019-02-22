@@ -7,6 +7,8 @@ featured: true
 hidden: true
 ---
 
+![walking]({{ site.baseurl }}/assets/images/postpartum0.jpg)
+
 1. While you will be thrilled to have your baby in your arms, the first four weeks are mostly spent in frustration, exhaustion, tears, and..copious amounts of blood.
 2. ..But each day gets better.
 3. You will miss your baby's kicks and nudges you enjoyed so much in those last few months of pregnancy.
